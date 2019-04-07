@@ -1,0 +1,63 @@
+{
+  "uid" : "b44ff80105341b98",
+  "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\user.test_user-Exist.Test_user_Exist.test_login_succ",
+  "fullName" : "testCase.C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\user.test_user-Exist.Test_user_Exist.test_login_succ",
+  "historyId" : "3c08c69da1d2e49e63512dccb9de18f9",
+  "time" : {
+    "start" : 1554609027896,
+    "stop" : 1554609027916,
+    "duration" : 20
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-44TPKSAA"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "注册功能验证"
+  }, {
+    "name" : "thread",
+    "value" : "16352-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testCase"
+  }, {
+    "name" : "testClass",
+    "value" : "testCase"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\user.test_user-Exist.Test_user_Exist.test_login_succ"
+  }, {
+    "name" : "package",
+    "value" : "testCase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b44ff80105341b98.json",
+  "parameterValues" : [ ]
+}

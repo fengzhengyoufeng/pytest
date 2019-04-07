@@ -1,0 +1,133 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-44TPKSAA",
+    "children" : [ {
+      "name" : "16352-MainThread",
+      "children" : [ {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.Test_sys_login.test_login_fail_falsePhone",
+        "uid" : "da3889a280ebd2f2",
+        "parentUid" : "0dc3859130fea7ead9d43b0ba919ccb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027819,
+          "stop" : 1554609027878,
+          "duration" : 59
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.Test_sys_login.test_login_fail_falsePwd",
+        "uid" : "f7612890bc9aab00",
+        "parentUid" : "0dc3859130fea7ead9d43b0ba919ccb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027789,
+          "stop" : 1554609027817,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\user.test_user-Exist.Test_user_Exist.test_login_succ",
+        "uid" : "b44ff80105341b98",
+        "parentUid" : "0dc3859130fea7ead9d43b0ba919ccb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027896,
+          "stop" : 1554609027916,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.Test_sys_login.test_login_succ",
+        "uid" : "ee78108c0ccb675",
+        "parentUid" : "0dc3859130fea7ead9d43b0ba919ccb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027757,
+          "stop" : 1554609027788,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.Test_sys_chagepwd.test_login_changePwd",
+        "uid" : "911e5b15948c4d54",
+        "parentUid" : "0dc3859130fea7ead9d43b0ba919ccb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609026409,
+          "stop" : 1554609027510,
+          "duration" : 1101
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.Test_sys_login.test_login_fail_ban_user",
+        "uid" : "9391a66137bb90bc",
+        "parentUid" : "0dc3859130fea7ead9d43b0ba919ccb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027879,
+          "stop" : 1554609027895,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.Test_sys_chagepwd.test_login_replayPwd",
+        "uid" : "e4b9a315b60fd5e9",
+        "parentUid" : "0dc3859130fea7ead9d43b0ba919ccb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027510,
+          "stop" : 1554609027561,
+          "duration" : 51
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\user.test_user-Exist.Test_user_Exist.test_newLogin",
+        "uid" : "28ccd4f43e773fb6",
+        "parentUid" : "0dc3859130fea7ead9d43b0ba919ccb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027917,
+          "stop" : 1554609027957,
+          "duration" : 40
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_getUserInfo.Test_sys_getuserinfo.test_getUserInfo",
+        "uid" : "8919ebe7afffd723",
+        "parentUid" : "0dc3859130fea7ead9d43b0ba919ccb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027582,
+          "stop" : 1554609027756,
+          "duration" : 174
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.Test_sys_chagepwd.test_login_returnPwd",
+        "uid" : "2fdd39a414ace55e",
+        "parentUid" : "0dc3859130fea7ead9d43b0ba919ccb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027562,
+          "stop" : 1554609027581,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0dc3859130fea7ead9d43b0ba919ccb0"
+    } ],
+    "uid" : "39091c7d1dc0041218f19cbb005d6935"
+  } ]
+}

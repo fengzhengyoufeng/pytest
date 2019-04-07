@@ -1,0 +1,66 @@
+{
+  "uid" : "f7612890bc9aab00",
+  "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.Test_sys_login.test_login_fail_falsePwd",
+  "fullName" : "testCase.C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.Test_sys_login.test_login_fail_falsePwd",
+  "historyId" : "12c9962a1824a5b30af3677b8a07c2da",
+  "time" : {
+    "start" : 1554609027789,
+    "stop" : 1554609027817,
+    "duration" : 28
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录验证检测"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-44TPKSAA"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "用户名正确密码错误进行登录验证"
+  }, {
+    "name" : "thread",
+    "value" : "16352-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testCase"
+  }, {
+    "name" : "testClass",
+    "value" : "testCase"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.Test_sys_login.test_login_fail_falsePwd"
+  }, {
+    "name" : "package",
+    "value" : "testCase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7612890bc9aab00.json",
+  "parameterValues" : [ ]
+}

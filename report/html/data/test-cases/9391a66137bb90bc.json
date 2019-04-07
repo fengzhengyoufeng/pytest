@@ -1,0 +1,66 @@
+{
+  "uid" : "9391a66137bb90bc",
+  "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.Test_sys_login.test_login_fail_ban_user",
+  "fullName" : "testCase.C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.Test_sys_login.test_login_fail_ban_user",
+  "historyId" : "d3ac2c4dacae10cefb7c5a6ba01c",
+  "time" : {
+    "start" : 1554609027879,
+    "stop" : 1554609027895,
+    "duration" : 16
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录验证检测"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-44TPKSAA"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "禁用的用户进行登录验证"
+  }, {
+    "name" : "thread",
+    "value" : "16352-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testCase"
+  }, {
+    "name" : "testClass",
+    "value" : "testCase"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.Test_sys_login.test_login_fail_ban_user"
+  }, {
+    "name" : "package",
+    "value" : "testCase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9391a66137bb90bc.json",
+  "parameterValues" : [ ]
+}

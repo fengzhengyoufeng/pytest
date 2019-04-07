@@ -1,0 +1,177 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "修改密码验证",
+    "children" : [ {
+      "name" : "修改密码成功验证",
+      "children" : [ {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.Test_sys_chagepwd.test_login_changePwd",
+        "uid" : "911e5b15948c4d54",
+        "parentUid" : "aa1d09f2e1ad61663ad63b4aae88b40e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609026409,
+          "stop" : 1554609027510,
+          "duration" : 1101
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aa1d09f2e1ad61663ad63b4aae88b40e"
+    }, {
+      "name" : "改回密码功能验证",
+      "children" : [ {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.Test_sys_chagepwd.test_login_replayPwd",
+        "uid" : "e4b9a315b60fd5e9",
+        "parentUid" : "9dda1a0fdcbc1f6dca9b7d1cbd7ced3a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027510,
+          "stop" : 1554609027561,
+          "duration" : 51
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9dda1a0fdcbc1f6dca9b7d1cbd7ced3a"
+    }, {
+      "name" : "旧密码错误验证",
+      "children" : [ {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.Test_sys_chagepwd.test_login_returnPwd",
+        "uid" : "2fdd39a414ace55e",
+        "parentUid" : "ad622c03655fa6a1dbd67102d52c901c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027562,
+          "stop" : 1554609027581,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad622c03655fa6a1dbd67102d52c901c"
+    } ],
+    "uid" : "db8c575cc937742113153c598bff0326"
+  }, {
+    "name" : "获取用户信息功能验证",
+    "children" : [ {
+      "name" : "获取用户信息功能验证",
+      "children" : [ {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_getUserInfo.Test_sys_getuserinfo.test_getUserInfo",
+        "uid" : "8919ebe7afffd723",
+        "parentUid" : "b7b3a5fd9fcd9c4247aef47f86a45d27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027582,
+          "stop" : 1554609027756,
+          "duration" : 174
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b7b3a5fd9fcd9c4247aef47f86a45d27"
+    } ],
+    "uid" : "1cff3def6aa3e16412c01f9d3e933415"
+  }, {
+    "name" : "登录验证检测",
+    "children" : [ {
+      "name" : "登录成功验证",
+      "children" : [ {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.Test_sys_login.test_login_succ",
+        "uid" : "ee78108c0ccb675",
+        "parentUid" : "fb072c9baec44b952ab32f0770336e55",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027757,
+          "stop" : 1554609027788,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fb072c9baec44b952ab32f0770336e55"
+    }, {
+      "name" : "用户名正确密码错误进行登录验证",
+      "children" : [ {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.Test_sys_login.test_login_fail_falsePwd",
+        "uid" : "f7612890bc9aab00",
+        "parentUid" : "2ada2f0b0d2c9c1967c8aa82f3242cf8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027789,
+          "stop" : 1554609027817,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2ada2f0b0d2c9c1967c8aa82f3242cf8"
+    }, {
+      "name" : "用户名不存在进行登录验证",
+      "children" : [ {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.Test_sys_login.test_login_fail_falsePhone",
+        "uid" : "da3889a280ebd2f2",
+        "parentUid" : "a43a731c9326a4368b3da8792aff6e58",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027819,
+          "stop" : 1554609027878,
+          "duration" : 59
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a43a731c9326a4368b3da8792aff6e58"
+    }, {
+      "name" : "禁用的用户进行登录验证",
+      "children" : [ {
+        "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.Test_sys_login.test_login_fail_ban_user",
+        "uid" : "9391a66137bb90bc",
+        "parentUid" : "7e27cbb8adc4326d14f4e2936f017139",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609027879,
+          "stop" : 1554609027895,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7e27cbb8adc4326d14f4e2936f017139"
+    } ],
+    "uid" : "227bd600a5a9395d730b4244427d1777"
+  }, {
+    "name" : "注册功能验证",
+    "children" : [ {
+      "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\user.test_user-Exist.Test_user_Exist.test_login_succ",
+      "uid" : "b44ff80105341b98",
+      "parentUid" : "3675d4104e19e9817f550e65a5edd5c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554609027896,
+        "stop" : 1554609027916,
+        "duration" : 20
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3675d4104e19e9817f550e65a5edd5c4"
+  }, {
+    "name" : "注册账号登录验证",
+    "children" : [ {
+      "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\user.test_user-Exist.Test_user_Exist.test_newLogin",
+      "uid" : "28ccd4f43e773fb6",
+      "parentUid" : "f892fdbea52ba7d152d6712fa9d5c422",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554609027917,
+        "stop" : 1554609027957,
+        "duration" : 40
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f892fdbea52ba7d152d6712fa9d5c422"
+  } ]
+}

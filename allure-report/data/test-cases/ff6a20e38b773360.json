@@ -1,0 +1,60 @@
+{
+  "uid" : "ff6a20e38b773360",
+  "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.test_login_changePwd",
+  "fullName" : "testCase.C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.test_login_changePwd",
+  "historyId" : "6dea45734eb731cb7c3801eab8f6c02c",
+  "time" : {
+    "start" : 1554601043980,
+    "stop" : 1554601045074,
+    "duration" : 1094
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-44TPKSAA"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "4556-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testCase"
+  }, {
+    "name" : "testClass",
+    "value" : "testCase"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.test_login_changePwd"
+  }, {
+    "name" : "package",
+    "value" : "testCase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff6a20e38b773360.json",
+  "parameterValues" : [ ]
+}

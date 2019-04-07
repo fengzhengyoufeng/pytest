@@ -1,0 +1,66 @@
+{
+  "uid" : "e4b9a315b60fd5e9",
+  "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.Test_sys_chagepwd.test_login_replayPwd",
+  "fullName" : "testCase.C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.Test_sys_chagepwd.test_login_replayPwd",
+  "historyId" : "dba526281c071e24c80fdd6c97424596",
+  "time" : {
+    "start" : 1554609027510,
+    "stop" : 1554609027561,
+    "duration" : 51
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "修改密码验证"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-44TPKSAA"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "改回密码功能验证"
+  }, {
+    "name" : "thread",
+    "value" : "16352-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testCase"
+  }, {
+    "name" : "testClass",
+    "value" : "testCase"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.Test_sys_chagepwd.test_login_replayPwd"
+  }, {
+    "name" : "package",
+    "value" : "testCase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4b9a315b60fd5e9.json",
+  "parameterValues" : [ ]
+}

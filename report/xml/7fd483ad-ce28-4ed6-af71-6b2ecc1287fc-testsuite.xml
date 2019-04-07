@@ -1,0 +1,144 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554629853845" stop="1554629855141">
+  <name>testCase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554629853845" status="passed" stop="1554629854926">
+      <name>C:\Users\17394\PycharmProjects\pytest\testCase\sys.test_sys_chagepwd.Test_sys_chagepwd.test_login_changePwd</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码验证"/>
+        <label name="story" value="修改密码成功验证"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6648-MainThread"/>
+        <label name="host" value="LAPTOP-44TPKSAA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554629854927" status="passed" stop="1554629854954">
+      <name>C:\Users\17394\PycharmProjects\pytest\testCase\sys.test_sys_chagepwd.Test_sys_chagepwd.test_login_replayPwd</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码验证"/>
+        <label name="story" value="改回密码功能验证"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6648-MainThread"/>
+        <label name="host" value="LAPTOP-44TPKSAA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554629854955" status="passed" stop="1554629854969">
+      <name>C:\Users\17394\PycharmProjects\pytest\testCase\sys.test_sys_chagepwd.Test_sys_chagepwd.test_login_returnPwd</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码验证"/>
+        <label name="story" value="旧密码错误验证"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6648-MainThread"/>
+        <label name="host" value="LAPTOP-44TPKSAA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554629854970" status="passed" stop="1554629854988">
+      <name>C:\Users\17394\PycharmProjects\pytest\testCase\sys.test_sys_getUserInfo.Test_sys_getuserinfo.test_getUserInfo</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="获取用户信息功能验证"/>
+        <label name="story" value="获取用户信息功能验证"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6648-MainThread"/>
+        <label name="host" value="LAPTOP-44TPKSAA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554629854989" status="passed" stop="1554629855020">
+      <name>C:\Users\17394\PycharmProjects\pytest\testCase\sys.test_sys_login.Test_sys_login.test_login_succ</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录验证检测"/>
+        <label name="story" value="登录成功验证"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6648-MainThread"/>
+        <label name="host" value="LAPTOP-44TPKSAA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554629855020" status="passed" stop="1554629855050">
+      <name>C:\Users\17394\PycharmProjects\pytest\testCase\sys.test_sys_login.Test_sys_login.test_login_fail_falsePwd</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录验证检测"/>
+        <label name="story" value="用户名正确密码错误进行登录验证"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6648-MainThread"/>
+        <label name="host" value="LAPTOP-44TPKSAA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554629855050" status="passed" stop="1554629855064">
+      <name>C:\Users\17394\PycharmProjects\pytest\testCase\sys.test_sys_login.Test_sys_login.test_login_fail_falsePhone</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录验证检测"/>
+        <label name="story" value="用户名不存在进行登录验证"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6648-MainThread"/>
+        <label name="host" value="LAPTOP-44TPKSAA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554629855065" status="passed" stop="1554629855080">
+      <name>C:\Users\17394\PycharmProjects\pytest\testCase\sys.test_sys_login.Test_sys_login.test_login_fail_ban_user</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录验证检测"/>
+        <label name="story" value="禁用的用户进行登录验证"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6648-MainThread"/>
+        <label name="host" value="LAPTOP-44TPKSAA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554629855081" status="passed" stop="1554629855109">
+      <name>C:\Users\17394\PycharmProjects\pytest\testCase\user.test_user-Exist.Test_user_Exist.test_login_succ</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="注册功能验证"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6648-MainThread"/>
+        <label name="host" value="LAPTOP-44TPKSAA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554629855109" status="passed" stop="1554629855141">
+      <name>C:\Users\17394\PycharmProjects\pytest\testCase\user.test_user-Exist.Test_user_Exist.test_newLogin</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="注册账号登录验证"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6648-MainThread"/>
+        <label name="host" value="LAPTOP-44TPKSAA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

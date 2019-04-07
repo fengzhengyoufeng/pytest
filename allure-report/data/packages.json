@@ -1,0 +1,129 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testCase",
+    "children" : [ {
+      "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.test_login_changePwd",
+      "uid" : "ff6a20e38b773360",
+      "parentUid" : "787f89db47e8c6cf7f049d23fac0e26f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554601043980,
+        "stop" : 1554601045074,
+        "duration" : 1094
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.test_login_replayPwd",
+      "uid" : "4a3ed90dff8803d9",
+      "parentUid" : "787f89db47e8c6cf7f049d23fac0e26f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554601045075,
+        "stop" : 1554601045103,
+        "duration" : 28
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_chagepwd.test_login_returnPwd",
+      "uid" : "e464ad5cc66ef84c",
+      "parentUid" : "787f89db47e8c6cf7f049d23fac0e26f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554601045103,
+        "stop" : 1554601045120,
+        "duration" : 17
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_getUserInfo.test_getUserInfo",
+      "uid" : "c660c7b16efa6321",
+      "parentUid" : "787f89db47e8c6cf7f049d23fac0e26f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554601045121,
+        "stop" : 1554601045168,
+        "duration" : 47
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.test_login_succ",
+      "uid" : "724e161d379d584e",
+      "parentUid" : "787f89db47e8c6cf7f049d23fac0e26f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554601045170,
+        "stop" : 1554601045203,
+        "duration" : 33
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.test_login_fail_falsePwd",
+      "uid" : "8f98490b7c4cffa6",
+      "parentUid" : "787f89db47e8c6cf7f049d23fac0e26f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554601045203,
+        "stop" : 1554601045233,
+        "duration" : 30
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.test_login_fail_falsePhone",
+      "uid" : "a4579822336226fb",
+      "parentUid" : "787f89db47e8c6cf7f049d23fac0e26f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554601045234,
+        "stop" : 1554601045260,
+        "duration" : 26
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\sys.test_sys_login.test_login_fail_ban_user",
+      "uid" : "19db96b95779a72f",
+      "parentUid" : "787f89db47e8c6cf7f049d23fac0e26f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554601045261,
+        "stop" : 1554601045279,
+        "duration" : 18
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\user.test_user-Exist.test_login_succ",
+      "uid" : "d671319dde4e9b2",
+      "parentUid" : "787f89db47e8c6cf7f049d23fac0e26f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554601045280,
+        "stop" : 1554601045297,
+        "duration" : 17
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\17394\\PycharmProjects\\pytest\\testCase\\user.test_user-Exist.test_newLogin",
+      "uid" : "8e522f62584cf435",
+      "parentUid" : "787f89db47e8c6cf7f049d23fac0e26f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554601045298,
+        "stop" : 1554601045327,
+        "duration" : 29
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "787f89db47e8c6cf7f049d23fac0e26f"
+  } ]
+}
